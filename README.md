@@ -184,6 +184,4 @@ https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 
 ## Author
 
-**Nishita P**
-
-Built as part of the AlgoUniversity GenAI Bootcamp.
+**Nishita Poojary**
